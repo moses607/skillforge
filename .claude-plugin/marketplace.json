@@ -1,0 +1,30 @@
+{
+  "name": "skillforge",
+  "owner": {
+    "name": "YOUR_NAME",
+    "email": "you@example.com"
+  },
+  "metadata": {
+    "description": "SkillForge — production-ready Claude skills for developers, knowledge workers, and marketers. Free pack.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skillforge-free",
+      "description": "9 free skills across dev, productivity, and marketing: PR review, conventional commits, incident postmortems, meeting actions, inbox triage, weekly review, landing copy, social repurposing, newsletters.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/pr-review-guardian",
+        "./skills/commit-craft",
+        "./skills/incident-postmortem",
+        "./skills/meeting-to-actions",
+        "./skills/inbox-triage",
+        "./skills/weekly-review",
+        "./skills/landing-copy",
+        "./skills/social-repurpose",
+        "./skills/newsletter-forge"
+      ]
+    }
+  ]
+}

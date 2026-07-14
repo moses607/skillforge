@@ -47,10 +47,9 @@ The higher-leverage skills — the ones worth paying for — ship separately und
 
 ### 👉 Get the Pro pack — $39 one-time (9 skills + 12 months of updates)
 
-- **Buy now:** _payment link coming soon_ — Gumroad / Lemon Squeezy / Stripe. Replace this line with your checkout URL once your store is live.
-- **Buy directly today:** [open a purchase request »](https://github.com/moses607/skillforge/issues/new?title=SkillForge%20Pro%20purchase&body=I%27d%20like%20to%20buy%20the%20Pro%20pack.%20Please%20send%20payment%20instructions.) — you'll get a payment link and repo access within 24h.
+**👉 [Buy SkillForge Pro on Gumroad — $39](https://frantzfrancois.gumroad.com/l/vhaya)**
 
-_Delivery: after payment you're added as a collaborator on the private `skillforge-pro` repo (or sent the versioned `.zip`), under a commercial license._
+_Instant download after checkout: a versioned `.zip` with all 9 Pro skills, under a commercial license (single user / single org). Includes 12 months of updates._
 
 See [`CATALOG.md`](CATALOG.md) for the full 18-skill list, [`PRICING.md`](PRICING.md) for tiers, and [`GO-TO-MARKET.md`](GO-TO-MARKET.md) for the distribution playbook.
 

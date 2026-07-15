@@ -51,7 +51,27 @@ The higher-leverage skills — the ones worth paying for — ship separately und
 
 _Instant download after checkout: a versioned `.zip` with all 9 Pro skills, under a commercial license (single user / single org). Includes 12 months of updates._
 
-See [`CATALOG.md`](CATALOG.md) for the full 18-skill list, [`PRICING.md`](PRICING.md) for tiers, and [`GO-TO-MARKET.md`](GO-TO-MARKET.md) for the distribution playbook.
+See [`CATALOG.md`](CATALOG.md) for the full skill list, [`PRICING.md`](PRICING.md) for tiers, and [`GO-TO-MARKET.md`](GO-TO-MARKET.md) for the distribution playbook.
+
+---
+
+## 🧬 Frontier tier — SkillForge Labs (bundle of 5)
+
+Five **composable meta-skills** that turn any capable model (Claude, GPT-class, or your own agent) into an autonomous system — not task templates, but the *loops* a senior AI engineer runs by hand:
+
+| Skill | What it does |
+|-------|--------------|
+| `meta-evolver` | Self-improvement loop: optimize any prompt/skill/agent against a real fitness function |
+| `reality-simulator` | A flight simulator for decisions — model markets, businesses, and games before you commit |
+| `cross-domain-synthesis` | Breakthrough ideas by transferring deep mechanisms across distant fields |
+| `workflow-orchestrator` | Multi-agent teams + a persistent relational/vector/graph memory fabric, with self-healing |
+| `value-amplifier` | Idea → validated MVP → growth simulation → monetization |
+
+They compose: Meta-Evolver tunes the others; the Orchestrator runs them as a team. **You buy the loop, not the parts.**
+
+**👉 [Get SkillForge Labs — $149 (bundle of 5)](https://frantzfrancois.gumroad.com/l/rasuld)**
+
+_Instant download: all 5 skills + reference files, commercial license (single user / single org), 12 months of updates._
 
 ---
 

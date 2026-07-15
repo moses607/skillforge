@@ -6,6 +6,10 @@ Skills are model-invoked playbooks: Claude loads them automatically when your re
 
 ---
 
+> 🚀 **New — free & open source:** [**SocialForge**](https://github.com/moses607/socialforge) — 20 Claude skills that turn any capable model into a full AI social-media growth agency (hooks, viral scripts, competitor analysis, repurposing, trends, engagement + an orchestrator). MIT. ⭐ it if it helps.
+
+---
+
 ## ✅ Free pack (this repo) — 9 skills, MIT licensed
 
 Install in Claude Code:

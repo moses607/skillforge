@@ -55,6 +55,24 @@ See [`CATALOG.md`](CATALOG.md) for the full skill list, [`PRICING.md`](PRICING.m
 
 ---
 
+## 🧠 SkillForge Master — 5 meta-skills (operate Claude like an expert)
+
+The craft *beneath* the prompts — how to drive the model itself. Works with Opus 4.8, Sonnet 5, Haiku 4.5, Fable 5, and Claude Code.
+
+| Skill | What it does |
+|-------|--------------|
+| `token-economist` | Cut tokens, cost, and latency without losing quality |
+| `loop-architect` | The Looping method: agentic loops that actually converge |
+| `context-engineer` | Treat the context window as your scarcest resource; stop the model "forgetting" |
+| `model-router` | The right model for each job + multi-model orchestration |
+| `verification-harness` | Every AI output is a hypothesis until exercised — catch confidently-wrong results |
+
+**👉 [Get SkillForge Master — $49 (5 skills)](https://frantzfrancois.gumroad.com/l/qfcsb)**
+
+_Instant download: 5 skills + reference files, commercial license (single user / single org), 12 months of updates._
+
+---
+
 ## 🧬 Frontier tier — SkillForge Labs (bundle of 5)
 
 Five **composable meta-skills** that turn any capable model (Claude, GPT-class, or your own agent) into an autonomous system — not task templates, but the *loops* a senior AI engineer runs by hand:

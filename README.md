@@ -7,6 +7,8 @@ Skills are model-invoked playbooks: Claude loads them automatically when your re
 ---
 
 > 🚀 **New — free & open source:** [**SocialForge**](https://github.com/moses607/socialforge) — 20 Claude skills that turn any capable model into a full AI social-media growth agency (hooks, viral scripts, competitor analysis, repurposing, trends, engagement + an orchestrator). MIT. ⭐ it if it helps.
+>
+> ⚡ **Also open source:** [**Aether OS**](https://github.com/moses607/aether-os) — a model-agnostic **AI agent kernel**: persistent memory, a governed multi-agent orchestrator (council/debate), an eval harness, and cost tracking. Apache-2.0. For builders who want the infrastructure under the skills.
 
 ---
 
